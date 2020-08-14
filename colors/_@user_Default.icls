@@ -3,7 +3,7 @@
     <property name="created">2019-05-08T18:58:48</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.0.18</property>
-    <property name="modified">2019-11-01T10:36:50</property>
+    <property name="modified">2020-08-14T10:57:20</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -12,6 +12,31 @@
   <attributes>
     <option name="HTML_CODE">
       <value />
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="fffff2" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="f6fff6" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="fff6ff" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="f3fefe" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="d9bcbc" />
+      </value>
     </option>
     <option name="KOTLIN_LABEL">
       <value />
