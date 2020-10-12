@@ -3,7 +3,7 @@
     <property name="created">2020-10-12T10:14:59</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.2.0</property>
-    <property name="modified">2020-10-12T15:05:00</property>
+    <property name="modified">2020-10-12T15:35:10</property>
     <property name="originalScheme">Solarized Light (4lex4)</property>
   </metaInfo>
   <colors>
@@ -197,7 +197,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="" />
     <option name="BASH.INTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -447,15 +447,15 @@
         <option name="FOREGROUND" value="5380cc" />
       </value>
     </option>
-    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_LINE_COMMENT" />
-    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_BLOCK_COMMENT" />
+    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
     <option name="CUSTOM_NUMBER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="Cmd.COMMENT">
       <value>
         <option name="FOREGROUND" value="93a1a1" />
@@ -947,6 +947,9 @@
         <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="c94916" />
@@ -1269,10 +1272,7 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="2e98b6" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -1573,8 +1573,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="badccc" />
+        <option name="BACKGROUND" value="99ccbb" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
