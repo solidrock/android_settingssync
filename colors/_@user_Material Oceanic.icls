@@ -4,7 +4,7 @@
     <property name="created">2018-09-18T14:23:05</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.4.0</property>
-    <property name="modified">2020-10-12T16:48:59</property>
+    <property name="modified">2020-10-12T22:08:01</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1431,7 +1431,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
+    <option name="List/map to object conversion" baseAttributes="" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="908b25" />
