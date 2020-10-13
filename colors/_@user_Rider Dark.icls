@@ -3,7 +3,7 @@
     <property name="created">2020-08-14T10:56:23</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.1.0</property>
-    <property name="modified">2020-10-13T10:05:03</property>
+    <property name="modified">2020-10-13T11:06:32</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
   <colors>
@@ -898,7 +898,7 @@
         <option name="BACKGROUND" value="232e46" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_KEYWORD" baseAttributes="" />
     <option name="JS.BADCHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5647" />
