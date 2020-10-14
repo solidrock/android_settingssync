@@ -4,7 +4,7 @@
     <property name="created">2020-08-14T10:56:23</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.1.0</property>
-    <property name="modified">2020-10-14T15:45:39</property>
+    <property name="modified">2020-10-14T17:48:40</property>
     <property name="originalScheme">Gruvbox Dark Medium</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -676,7 +676,7 @@
         <option name="FOREGROUND" value="fabd2f" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="" />
+    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff8647" />
@@ -1018,7 +1018,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Unresolved reference access" baseAttributes="" />
+    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="fabd2f" />
