@@ -4,7 +4,7 @@
     <property name="created">2020-08-14T10:56:23</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.1.0</property>
-    <property name="modified">2020-10-15T17:22:50</property>
+    <property name="modified">2020-10-16T11:12:03</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -264,7 +264,7 @@
         <option name="BACKGROUND" value="3c1f1f" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_KEYWORD" baseAttributes="" />
     <option name="LOG_DEBUG_OUTPUT">
       <value>
         <option name="FOREGROUND" value="999999" />
