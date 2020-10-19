@@ -3,7 +3,7 @@
     <property name="created">2020-10-13T09:40:30</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.1.0.19</property>
-    <property name="modified">2020-10-19T11:48:22</property>
+    <property name="modified">2020-10-19T14:42:11</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -249,7 +249,7 @@
         <option name="FOREGROUND" value="336ecc" />
       </value>
     </option>
-    <option name="GROOVY_KEYWORD" baseAttributes="" />
+    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6dcc" />
