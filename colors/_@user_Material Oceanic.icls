@@ -4,11 +4,10 @@
     <property name="created">2018-09-18T14:23:05</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.4.0</property>
-    <property name="modified">2020-10-27T10:29:30</property>
+    <property name="modified">2020-10-27T14:32:16</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
@@ -128,7 +127,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLADE_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -1223,27 +1222,142 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="354039" />
+        <option name="BACKGROUND" value="3c4750" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_10_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_11_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_12_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_13_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_14_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_15_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_16_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_17_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_18_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_19_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2c403d" />
+        <option name="BACKGROUND" value="394b4e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_20_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="353746" />
+        <option name="BACKGROUND" value="404c4c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="293f45" />
+        <option name="BACKGROUND" value="44494b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="444449" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="444046" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_7_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_8_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_9_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1a2327" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="412d31" />
+        <option name="BACKGROUND" value="3f2d31" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="802020" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -1361,7 +1475,7 @@
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
-    <option name="KOTLIN_LABEL" baseAttributes="" />
+    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -1372,7 +1486,7 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="" />
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
       <value />
     </option>
@@ -1422,7 +1536,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="" />
+    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="908b25" />

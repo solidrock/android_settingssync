@@ -3,7 +3,7 @@
     <property name="created">2020-10-12T10:14:59</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.2.0</property>
-    <property name="modified">2020-10-27T10:29:30</property>
+    <property name="modified">2020-10-27T14:32:16</property>
     <property name="originalScheme">Solarized Light (4lex4)</property>
   </metaInfo>
   <colors>
@@ -197,7 +197,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="" />
+    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="BASH.INTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -447,15 +447,15 @@
         <option name="FOREGROUND" value="5380cc" />
       </value>
     </option>
-    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_LINE_COMMENT" />
+    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_BLOCK_COMMENT" />
     <option name="CUSTOM_NUMBER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Cmd.COMMENT">
       <value>
         <option name="FOREGROUND" value="93a1a1" />
@@ -925,7 +925,7 @@
     <option name="GQL_ID">
       <value />
     </option>
-    <option name="GROOVY_KEYWORD" baseAttributes="" />
+    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="b58900" />
@@ -1014,27 +1014,142 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fdf7cf" />
+        <option name="BACKGROUND" value="f3efe4" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_10_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_11_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_12_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_13_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_14_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_15_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_16_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_17_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_18_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_19_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="eef7d7" />
+        <option name="BACKGROUND" value="f0f4e1" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_20_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fde8e6" />
+        <option name="BACKGROUND" value="f8f5df" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="e8f5e4" />
+        <option name="BACKGROUND" value="fdf1dd" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="fdebda" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="fde5d7" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_7_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_8_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_9_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b1ac9e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="d7b5a8" />
+        <option name="BACKGROUND" value="dabbad" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="802020" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
