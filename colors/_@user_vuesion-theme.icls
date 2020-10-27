@@ -4,7 +4,7 @@
     <property name="created">2020-08-14T10:56:23</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.1.0</property>
-    <property name="modified">2020-10-27T20:19:30</property>
+    <property name="modified">2020-10-27T14:32:16</property>
     <property name="originalScheme">vuesion-theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -378,7 +378,7 @@
         <option name="FOREGROUND" value="40bf77" />
       </value>
     </option>
-    <option name="Class" baseAttributes="" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="40bf77" />
@@ -1047,27 +1047,142 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="303732" />
+        <option name="BACKGROUND" value="373f4a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_10_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_11_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_12_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_13_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_14_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_15_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_16_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_17_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_18_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_19_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="273737" />
+        <option name="BACKGROUND" value="344248" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_20_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="302e40" />
+        <option name="BACKGROUND" value="3a4346" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="23363e" />
+        <option name="BACKGROUND" value="3e4045" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="3e3b43" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="3e3840" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_7_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_8_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_9_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="161c22" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="3d262c" />
+        <option name="BACKGROUND" value="3b262c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="802020" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -2529,10 +2644,10 @@
     <option name="PHP_VAR_VAR">
       <value />
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
-    <option name="PROPERTIES.KEY" baseAttributes="" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -2676,14 +2791,14 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="" />
-    <option name="REGEXP.BRACKETS" baseAttributes="" />
-    <option name="REGEXP.CHAR_CLASS" baseAttributes="" />
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.META" baseAttributes="" />
-    <option name="REGEXP.PARENTHS" baseAttributes="" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REST.FIXED">
       <value>
         <option name="BACKGROUND" value="292d3e" />
@@ -3330,7 +3445,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
     <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
