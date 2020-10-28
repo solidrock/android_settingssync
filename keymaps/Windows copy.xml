@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
   <action id="GoogleItSelected" />
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
