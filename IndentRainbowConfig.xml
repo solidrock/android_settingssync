@@ -1,7 +1,6 @@
 <application>
   <component name="IndentRainbowConfig">
-    <option name="customPaletteNumberColors" value="20" />
-    <option name="enabled" value="false" />
+    <option name="customPaletteNumberColors" value="15" />
     <option name="opacityMultiplier" value="-0.51" />
     <option name="paletteType" value="CUSTOM" />
   </component>
