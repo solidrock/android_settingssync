@@ -2,6 +2,7 @@
   <component name="AtomFileIconsConfig">
     <option name="monochromeColor" value="546e7a" />
     <option name="isEnabledPsiIcons" value="false" />
-    <option name="accentColor" value="3d7ec0" />
+    <option name="arrowsStyle" value="Darcula" />
+    <option name="accentColor" value="ee281f" />
   </component>
 </application>
