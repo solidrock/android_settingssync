@@ -3,9 +3,6 @@
     <option name="collapseAndroidStrings" value="false" />
     <option name="COLLAPSE_ANDROID_TEXT" value="false" />
   </component>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
-  </component>
   <component name="CodeInsightSettings">
     <option name="selectAutopopupSuggestionsByChars" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
@@ -50,8 +47,8 @@
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="JavaCodeFoldingSettings">
-    <option name="collapseAnonymousClasses" value="true" />
-    <option name="collapseInnerClasses" value="true" />
+    <option name="collapseLambdas" value="false" />
     <option name="collapseMultilineComments" value="true" />
+    <option name="collapseOneLineMethods" value="false" />
   </component>
 </application>
