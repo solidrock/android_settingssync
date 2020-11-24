@@ -47,6 +47,7 @@
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="JavaCodeFoldingSettings">
+    <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseLambdas" value="false" />
     <option name="collapseMultilineComments" value="true" />
     <option name="collapseOneLineMethods" value="false" />
