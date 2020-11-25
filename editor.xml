@@ -45,7 +45,6 @@
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="JavaCodeFoldingSettings">
