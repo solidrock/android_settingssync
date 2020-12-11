@@ -4,7 +4,14 @@
   </action>
   <action id="ActivateTODOToolWindow" />
   <action id="ChangesView.Move" />
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CodeGlance.toggle" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="GoToMenu">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
