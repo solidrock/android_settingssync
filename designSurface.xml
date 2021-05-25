@@ -2,6 +2,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Work/workspace/AndroidWorkdir/RecyclerView/Application/src/main/res/layout-w720dp/activity_main.xml" value="0.1" />
+        <entry key="..\:/Work/workspace/AndroidWorkdir/RecyclerView/Application/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Work/workspace/AndroidWorkdir/RecyclerView/Application/src/main/res/menu/main.xml" value="0.1" />
         <entry key="..\:/Work/workspace/SVNHOME/IIOT/irs-app/MVVMHabit/app/src/main/res/layout/fragment_personal_center.xml" value="0.16145307769929365" />
         <entry key="..\:/Work/workspace/SVNHOME/IIOT/irs-app/MVVMHabit/app/src/main/res/layout/fragment_personalinfos.xml" value="0.16145307769929365" />
         <entry key="..\:/Work/workspace/SVNHOME/IIOT/irs-app/MVVMHabit/app/src/main/res/layout/nestedscrollview.xml" value="0.16145307769929365" />
