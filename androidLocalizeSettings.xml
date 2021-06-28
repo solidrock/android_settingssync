@@ -1,0 +1,6 @@
+<application>
+  <component name="com.airsaid.localization.config.SettingsState">
+    <option name="selectedTranslatorKey" value="Google" />
+    <option name="isUseGoogleCom" value="true" />
+  </component>
+</application>

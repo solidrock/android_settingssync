@@ -1,10 +1,6 @@
 <application>
   <component name="PresentationAssistant">
-    <option name="alternativeKeymap">
-      <KeymapDescription>
-        <option name="displayText" value="for Mac" />
-      </KeymapDescription>
-    </option>
+    <option name="alternativeKeymap" />
     <option name="fontSize" value="30" />
     <option name="hideDelay" value="2000" />
     <option name="margin" value="10" />

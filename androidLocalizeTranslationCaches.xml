@@ -1,0 +1,5 @@
+<application>
+  <component name="com.airsaid.localization.translate.services.TranslationCacheService">
+    <option name="lruCache" value="{}" />
+  </component>
+</application>
