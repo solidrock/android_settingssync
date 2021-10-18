@@ -3,5 +3,6 @@
     <option name="paramInfoFontSizeEnabled" value="true" />
     <option name="paramInfoFontSize" value="15" />
     <option name="showWelcomeNotification" value="false" />
+    <option name="kiteUnavailableShown" value="true" />
   </component>
 </application>
