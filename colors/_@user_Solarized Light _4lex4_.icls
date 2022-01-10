@@ -1,11 +1,22 @@
 <scheme name="_@user_Solarized Light (4lex4)" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2020-10-12T10:14:59</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.2.0</property>
-    <property name="modified">2020-10-27T14:32:16</property>
+    <property name="modified">2022-01-10T11:04:24</property>
     <property name="originalScheme">Solarized Light (4lex4)</property>
   </metaInfo>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Hack Nerd Font" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c4d4aa" />
     <option name="ANNOTATIONS_COLOR" value="586e76" />
