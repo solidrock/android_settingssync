@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="keep" type="PLAIN_TEXT" />
       <mapping ext="gds" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQLAndroid file" />
       <mapping ext="geodatabase" type="SQLite" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
